@@ -1,6 +1,4 @@
-Build a full-stack AI Math Agent web app with the following complete specification.
 
----
 
 ## STACK
 - Next.js 14 (App Router)
